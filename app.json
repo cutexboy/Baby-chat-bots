@@ -1,7 +1,7 @@
 {
-    "name": "PrinceRobot", 
+    "name": "BikashRobot", 
     "description": "A Telegram Best Artificial Intelligence Chat Bot , written in Python with Pyrogram",
-    "logo": "https://telegra.ph/file/52930b2b68c12769782e7.jpg",
+    "logo": "https://te.legra.ph/file/f73af9a4ffe130a83d8d2.jpg",
     "stack": "container",
     "env": {
         "BOT_TOKEN": {
