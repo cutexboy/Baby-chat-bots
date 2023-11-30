@@ -6,7 +6,7 @@ Best Smart Artificial intelligence Chat bot For Telegram Groups  Click Below Pic
 
 ### Deploy To Heroku
 
-[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/BikashHalderNew/BikashChatBot)
+[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/cutexboy/Baby-chat-bots)
 
 
 ## Deploy
@@ -24,13 +24,13 @@ Best Smart Artificial intelligence Chat bot For Telegram Groups  Click Below Pic
 [Kaali Linux](https://youtu.be/fFRxAG1mCVU)
 
 ## ⚒️ 𝐂𝐫𝐞𝐝𝐢𝐭
-[𝐁𝐢𝐤𝐚𝐬𝐡](https://t.me/BikashHalder)
+[𝐏𝐫𝐢𝐧𝐜𝐞](https://t.me/Itz_prince_king)
 
 ## Telegram 🏪
 
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/BGT_Chat)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/FRIENDS_2_FAMILY0)
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Bikashgadgetstech)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/The_F2F_Networks)
 
 ## YouTube 📺
 
@@ -40,14 +40,14 @@ Best Smart Artificial intelligence Chat bot For Telegram Groups  Click Below Pic
 #### 🥺 Copy Pasters You Can Copy This Repo But Must Give Credits ...
 
 ### 🌷 Owner Of This Repository 🇮🇳
-[![Bikash Halder](https://te.legra.ph/file/840fed0100164af249bb8.jpg)](https://t.me/BikashHalder)
+[![Prince kumar](https://te.legra.ph/file/52930b2b68c12769782e7.jpg)](https://t.me/Itz_prince_king)
 
 
-#### Main Developer = [Bikash](https://t.me/BikashHalder)
+#### Main Developer = [Prince](https://t.me/Itz_prince_king)
 
 ## 💕 Special Thanks
 
-✅ Aditya Halder Thanks For Fixed All Error Or Lovely Support 💕
+✅ Prince kumar Thanks For Fixed All Error Or Lovely Support 💕
 
 
-## 🥀 Powered By [BikashHalder](https://t.me/Bikashhalder) & [AdityaHalder](https://t.me/Adityahalder)
+## 🥀 Powered By [Prince Kumar](https://t.me/Itz_prince_king) 
